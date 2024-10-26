@@ -13,7 +13,8 @@ export default {
 
       },
       fontFamily:{
-        poppins:["Poppins","sans-serif"]
+        poppins:["Poppins","sans-serif"],
+        cursive:["Italianno","cursive"]
       },
       container:{
         center:true,
