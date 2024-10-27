@@ -7,7 +7,7 @@ Clone this repository:
    git clone https://github.com/ChidiyaChatterjee/Mitahiwala_web.git
    ```
 
-##THE ANDROID APP MITHAIWALA
+## THE ANDROID APP MITHAIWALA
 
 ## Table of Contents
 - [Description](#description)
