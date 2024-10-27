@@ -37,7 +37,7 @@ const content = [
     content: (
       <div
         className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--orange-500),var(--yellow-500))] flex items-center justify-center text-white">
-        Version control
+        Source Access
       </div>
     ),
   },
@@ -48,7 +48,7 @@ const content = [
     content: (
       <div
         className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--cyan-500),var(--emerald-500))] flex items-center justify-center text-white">
-        Running out of content
+        Baker's Buzz
       </div>
     ),
   },
