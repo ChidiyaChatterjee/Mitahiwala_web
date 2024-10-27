@@ -25,7 +25,9 @@ export default {
           lg:"6rem",
           xl:"8rem"
         }
-      }
+      },boxShadow: {
+        glow: '0 0 8px rgba(255, 215, 0, 0.8), 0 0 15px rgba(255, 215, 0, 0.6)', // Adjust color and size for desired glow
+      },
     },
   },
   plugins: [],
