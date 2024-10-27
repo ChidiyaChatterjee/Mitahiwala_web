@@ -7,7 +7,9 @@ Clone this repository:
    git clone https://github.com/ChidiyaChatterjee/Mitahiwala_web.git
    ```
 
-## THE ANDROID APP MITHAIWALA
+<div style="text-align: center; margin-bottom: 20px;">
+  <h2 style="font-family: 'Arial', sans-serif; color: #5d4037;">Android App (Mithaiwala)</h2>
+</div>
 
 ## Table of Contents
 - [Description](#description)
