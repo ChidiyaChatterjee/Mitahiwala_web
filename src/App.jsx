@@ -5,9 +5,10 @@ import Hero from "./components/hero/Hero";
 import { AnimatedTooltipPreview } from './components/AnimatedTooltip/app';
 import { TabsDemo } from "./components/animatedtabs/app";
 import { HeroScrollDemo } from './components/ContainerScrollAnimation/app';
-import { StickyScrollRevealDemo } from './components/StickyScrollReveal/app';
 import { TypewriterEffectSmoothDemo } from './components/TypewriterEffect/app';
 import { LinkPreviewDemo } from './components/LinkPreview/app';
+import {ParallaxScrollDemo}  from './components/ParallaxGridScroll/app';
+
 
 function App() {
   return (
@@ -34,9 +35,8 @@ function App() {
         {/* Features Section */}
         <section className="text-center w-full max-w-7xl mx-auto px-4 sm:px-8 lg:px-12 mb-12">
         <h1 className="text-8xl font-bold mt-7 text-gray-900">Enhance Features</h1>
-         
           <TabsDemo />
-          <StickyScrollRevealDemo />
+          <ParallaxScrollDemo/>
         </section>
         
       </main>
