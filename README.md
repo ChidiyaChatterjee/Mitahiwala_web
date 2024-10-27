@@ -2,9 +2,9 @@
   <h1 style="font-family: 'Arial', sans-serif; color: #5d4037;">Mithaiwala -Web Portfolio</h1>
 </div>
 
-Clone the repository:
+Clone this repository:
    ```bash
-   git clone https://github.com/AnkanaPanja/OnlineShoppingApp.git
+   git clone https://github.com/ChidiyaChatterjee/Mitahiwala_web.git
    ```
 
 ##THE ANDROID APP MITHAIWALA
