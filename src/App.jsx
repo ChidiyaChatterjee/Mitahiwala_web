@@ -1,7 +1,7 @@
 import React from "react";
 import './App.css'
 import Navbar from "./components/navbar/Navbar";
-import Hero from "./components/hero/hero";
+import Hero from "./components/hero/Hero";
 import { AnimatedTooltipPreview } from './components/AnimatedTooltip/app';
 import { TabsDemo } from "./components/animatedtabs/app";
 import { HeroScrollDemo } from './components/ContainerScrollAnimation/app';
