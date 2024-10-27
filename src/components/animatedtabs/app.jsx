@@ -1,8 +1,8 @@
-import Image from "../../assets/xx.png";
-import Image1 from "../../assets/xx.png";
-import Image3 from "../../assets/xx.png";
-import Image4 from "../../assets/xx.png";
-import Image5 from "../../assets/xx.png";
+import Image from "../../assets/uilover.png";
+import Image1 from "../../assets/support.png";
+import Image3 from "../../assets/delivery.png";
+//import Image4 from "../../assets/delivery.png";
+import Image5 from "../../assets/quality.png";
 import { Tabs } from "./ui";
 
 export function TabsDemo() {
@@ -37,16 +37,16 @@ export function TabsDemo() {
         </div>
       ),
     },
-    {
-      title: "Smoothness",
-      value: "smoothness",
-      content: (
-        <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-[#ffe7c2]">
-          <p>Smoothness</p>
-          <DummyContent4 />
-        </div>
-      ),
-    },
+    // {
+    //   title: "Smoothness",
+    //   value: "smoothness",
+    //   content: (
+    //     <div className="w-full overflow-hidden relative h-full rounded-2xl p-10 text-xl md:text-4xl font-bold text-white bg-[#ffe7c2]">
+    //       <p>Smoothness</p>
+    //       <DummyContent4 />
+    //     </div>
+    //   ),
+    // },
     {
       title: "Quality",
       value: "quality",
@@ -99,17 +99,17 @@ const DummyContent3 = () => {
     />
   );
 };
-const DummyContent4 = () => {
-  return (
-    <img
-      src={Image4}
-      alt="dummy image"
-      width="1000"
-      height="1000"
-      className="object-cover object-left-top h-[60%]  md:h-[90%] absolute -bottom-10 inset-x-0 w-[90%] rounded-xl mx-auto"
-    />
-  );
-};
+// const DummyContent4 = () => {
+//   return (
+//     <img
+//       src={Image4}
+//       alt="dummy image"
+//       width="1000"
+//       height="1000"
+//       className="object-cover object-left-top h-[60%]  md:h-[90%] absolute -bottom-10 inset-x-0 w-[90%] rounded-xl mx-auto"
+//     />
+//   );
+// };
 const DummyContent5 = () => {
   return (
     <img

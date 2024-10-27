@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { ContainerScroll } from "../ContainerScrollAnimation/ui";
-import Image from "../../assets/xx.png";
+import Image from "../../assets/tab.png";
 
 export function HeroScrollDemo() {
   return (
