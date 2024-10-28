@@ -26,7 +26,7 @@ function Navbar() {
               <a
                 key={link.name}
                 href={link.link}
-                className="navbar-link text hover:text-red-100"
+                className="navbar-link text-orange-300 hover:text-red-300"
                 style={{ textShadow: '0 0 10px rgba(255, 215, 0, 0.8), 0 0 20px rgba(255, 215, 0, 0.6)' }}
               >
                 {link.name}
