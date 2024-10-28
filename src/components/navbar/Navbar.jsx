@@ -4,8 +4,8 @@ import { IoReorderThreeOutline } from "react-icons/io5";
 function Navbar() {
   const Links = [
     { name: "Home", link: "#home" },
-    { name: "Features", link: "#features" },
     { name: "About", link: "#about" },
+    { name: "Features", link: "#features" },
     { name: "Contact", link: "#contact" }
   ];
   

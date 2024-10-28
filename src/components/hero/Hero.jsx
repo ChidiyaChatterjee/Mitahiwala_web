@@ -30,7 +30,7 @@ function Hero() {
   > 
     <div className="text-left mx-16">
       <h1 className="text-4xl md:text-6xl font-bold text-white">
-        Welcome <br></br>to Our{' '}
+       <span className='text-amber-600'> Welcome</span> <br></br><span className='text-orange-200'>to Our</span>{' '}
         <span className='font-cursive text-6xl md:text-9xl text-white  transition-transform duration-100 ease-linear' style={{transform: `scale(${scale})`,display: 'inline-block', textShadow: '0 0 10px rgba(255, 215, 0, 0.8), 0 0 20px rgba(255, 215, 0, 0.6)'  }}> Bakery</span>
       </h1>
       <p className="text-sm md:text-xl mt-4 text-white">
