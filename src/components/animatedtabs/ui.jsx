@@ -46,7 +46,7 @@ export const Tabs = ({
             {active.value === tab.value && (
               <motion.div
                 layoutId="clickedbutton"
-                transition={{ type: "spring", bounce: 0.3, duration: 0.6 }}
+                transition={{ type: "spring", bounce: 0.3, duration: 0.6  }}
                 className={cn(
                   "absolute inset-0 bg-[#ffe7c2] bg-[#ffe7c5] rounded-full ",
                   activeTabClassName
