@@ -11,7 +11,7 @@ const people = [
   },
   {
     id: 2,
-    name: "Sreya Chaterjee",
+    name: "Sreya Chatterjee",
     designation: "Dev",
     image:
       "https://avatars.githubusercontent.com/u/170153408?v=4",
