@@ -94,14 +94,7 @@ Mithaiwala stands out in the market for its:
 - **Smooth User Experience**: Smooth and simple User experience to ensure Simplicity.
 - **Customer-Centric Approach**: We prioritize customer satisfaction and aim to create a community of bakery lovers.
 
-## Screenshots
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="app/src/main/res/drawable/app_preview_1.jpg" alt="Screenshot 1" style="width: 30%; margin: 10px; border-radius: 8px;">
-    <img src="app/src/main/res/drawable/app_preview_2.jpg" alt="Screenshot 2" style="width: 30%; margin: 10px; border-radius: 8px;">
-    <img src="app/src/main/res/drawable/app_preview_3.jpg" alt="Screenshot 3" style="width: 30%; margin: 10px; border-radius: 8px;">
-    <img src="app/src/main/res/drawable/app_preview_4.jpg" alt="Screenshot 4" style="width: 30%; margin: 10px; border-radius: 8px;">
-    <img src="app/src/main/res/drawable/app_preview_5.jpg" alt="Screenshot 5" style="width: 30%; margin: 10px; border-radius: 8px;">
-</div>
+
 
 ## License
 All rights reserved by our team
