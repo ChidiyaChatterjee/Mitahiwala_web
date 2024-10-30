@@ -31,4 +31,13 @@ const images = [
   "https://cdnimg.webstaurantstore.com/uploads/seo_category/2024/8/Bakery-Supplies/cake-decorating-ingredients.jpg",
   "https://amycakesbakes.com/wp-content/uploads/2022/11/Professional-bakery-recipes-for-your-bakery-menu.jpg",
   "https://www.touchbistro.com/wp-content/uploads/2022/03/bakery-business-plan-inset-2.jpg",
+  "https://chefibpa.com/wp-content/uploads/2023/11/essential-ingredients-and-tools-for-baking-cakes-.jpg",
+  "https://media.firstcoastnews.com/assets/WTLV/images/f7e254af-57bf-42cc-b7c9-772a448e503d/f7e254af-57bf-42cc-b7c9-772a448e503d_750x422.jpg",
+  "https://img.freepik.com/premium-photo/baked-goods-displayed-tray-window-light-with-baking-rack-croissants-concept-food-photography-baking-inspiration-display-ideas-croissant-aesthetics-window-light-reflections_864588-108951.jpg",
+  "https://i.pinimg.com/736x/d2/17/a9/d217a9d512045fc8d8a4fa1c68a801e8.jpg",
+  "https://chefibpa.com/wp-content/uploads/2023/11/essential-ingredients-and-tools-for-baking-cakes-.jpg",
+  "https://media.firstcoastnews.com/assets/WTLV/images/f7e254af-57bf-42cc-b7c9-772a448e503d/f7e254af-57bf-42cc-b7c9-772a448e503d_750x422.jpg",
+  "https://img.freepik.com/premium-photo/baked-goods-displayed-tray-window-light-with-baking-rack-croissants-concept-food-photography-baking-inspiration-display-ideas-croissant-aesthetics-window-light-reflections_864588-108951.jpg",
+  "https://i.pinimg.com/736x/d2/17/a9/d217a9d512045fc8d8a4fa1c68a801e8.jpg",
+  
 ];
