@@ -1,4 +1,5 @@
 // Navbar.js
+// eslint-disable-next-line no-unused-vars
 import React, { useState } from 'react';
 import { IoReorderThreeOutline } from "react-icons/io5";
 
